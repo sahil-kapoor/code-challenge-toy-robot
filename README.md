@@ -7,6 +7,8 @@ It is implemented using Java 8 and unit tested using JUnit and Mockito
 
 ### To Compile, Test and Run
 
+-Need apache maven and Java 8 to be installed on the system.  
+
 - Compile: 'mvn compile'
 
 - Test: 'mvn test'
